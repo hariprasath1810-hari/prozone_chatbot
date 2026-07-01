@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Prozone Mall Chatbot</title>
+<style>
+/* ====== Base Reset ====== */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body, html { height: 100%; font-family: 'Segoe UI', sans-serif; }
+
+/* ====== Background ====== */
+body {
+  background: linear-gradient(to bottom right, #f9f9f9, #ececec);
+  background-image: url('https://images.unsplash.com/photo-1580316015404-0d3d37d5c825?auto=format&fit=crop&w=1600&q=80');
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* ====== Chat Container ====== */
+#chatbox {
+  width: 90%;
+  max-width: 450px;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0,0,0,0.2);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  backdrop-filter: blur(10px);
+}
+
+/* ====== Header ====== */
+#chatbox header {
+  background: linear-gradient(135deg, #ff4b2b, #ff416c);
+  color: white;
+  text-align: center;
+  padding: 18px;
+  font-size: 1.3em;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+/* ====== Messages Area ====== */
+#messages {
+  flex: 1;
+  padding: 15px;
+  overflow-y: auto;
+  background: #fafafa;
+}
+.message {
+  margin: 10px 0;
+  line-height: 1.4;
+  animation: fadeIn 0.3s ease-in;
+}
+.user {
+  color: #0078ff;
+  text-align: right;
+  font-weight: 500;
+}
+.bot {
+  color: #34a853;
+  text-align: left;
+  font-weight: 500;
+}
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(5px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ====== Input Area ====== */
+#inputArea {
+  display: flex;
+  border-top: 1px solid #ddd;
+  background: #fff;
+}
+#user_input {
+  flex: 1;
+  border: none;
+  padding: 15px;
+  font-size: 1em;
+  border-radius: 0;
+  outline: none;
+}
+#sendBtn {
+  background: #ff416c;
+  color: white;
+  border: none;
+  padding: 0 20px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 1.1em;
+}
+#sendBtn:hover {
+  background: #e7355e;
+}
+
+/* ====== Scrollbar ====== */
+#messages::-webkit-scrollbar {
+  width: 6px;
+}
+#messages::-webkit-scrollbar-thumb {
+  background: #ccc;
+  border-radius: 3px;
+}
+
+/* ====== Mobile Optimizations ====== */
+@media (max-width: 600px) {
+  #chatbox {
+    height: 90%;
+    max-width: 95%;
+  }
+  #user_input { padding: 12px; }
+}
+</style>
+</head>
+<body>
+
+<div id="chatbox">
+  <header>🛍️ Prozone Mall Chatbot</header>
+  <div id="messages"></div>
+  <div id="inputArea">
+    <input type="text" id="user_input" placeholder="Ask me anything...">
+    <button id="sendBtn" onclick="sendMessage()">➤</button>
+  </div>
+</div>
+
+<script>
+async function sendMessage() {
+    let input = document.getElementById('user_input').value.trim();
+    if (!input) return;
+
+    let messages = document.getElementById('messages');
+    messages.innerHTML += `<div class="message user">🧍‍♂️ You: ${input}</div>`;
+    document.getElementById('user_input').value = '';
+
+    let response = await fetch('/chat', {
+        method: 'POST',
+        headers: {'Content-Type':'application/json'},
+        body: JSON.stringify({message: input})
+    });
+
+    let data = await response.json();
+    messages.innerHTML += `<div class="message bot">🤖 Bot: ${data.reply}</div>`;
+    messages.scrollTop = messages.scrollHeight;
+}
+</script>
+
+</body>
+</html>

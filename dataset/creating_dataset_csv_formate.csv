@@ -1,0 +1,102 @@
+store_name,category,location,type,discount_offer,timings,extra_info
+H&M,Fashion & Apparel,first_floor,store,Seasonal Sale (30-50%,11.00 AM to 9.00PM,Latest Western wear
+Pantaloons,Fashion & Apparel,first_floor,store,Flat 40% on selected,11.00 AM to 9.00PM,Latest Western wear
+Lifestyle,Fashion & Apparel,first_floor,store,Upto 50% Off,11.00 AM to 9.00PM,Latest Western wear
+Max,Fashion & Apparel,first_floor,store,Buy 2 Get 1 Free,11.00 AM to 9.00PM,Latest Western wear
+Westside,Fashion & Apparel,first_floor,store,Upto 50% Off,11.00 AM to 9.00PM,Latest Western wear
+Reliance Trends,Fashion & Apparel,first_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,Latest Western wear
+Van Heusen,Fashion & Apparel,first_floor,store,Flat 40% on selected,11.00 AM to 9.00PM,Latest Western wear
+Louis Philippe,Fashion & Apparel,first_floor,store,Flat 40% on selected,11.00 AM to 9.00PM,Latest Western wear
+Raymond,Fashion & Apparel,first_floor,store,Flat 40% on selected,11.00 AM to 9.00PM,"Men, women, kids"
+Tommy Hilfiger,Fashion & Apparel,first_floor,store,Flat 40% on selected,11.00 AM to 9.00PM,"Men, women, kids"
+Arrow,Fashion & Apparel,first_floor,store,Flat 40% on selected,11.00 AM to 9.00PM,"Men, women, kids"
+Peter England,Fashion & Apparel,first_floor,store,Upto 50% Off,11.00 AM to 9.00PM,"Men, women, kids"
+Indian Terrain,Fashion & Apparel,first_floor,store,Upto 50% Off,11.00 AM to 9.00PM,"Men, women, kids"
+Basics,Fashion & Apparel,first_floor,store,Upto 50% Off,11.00 AM to 9.00PM,"Men, women, kids"
+Sting,Fashion & Apparel,first_floor,store,Upto 50% Off,11.00 AM to 9.00PM,Trendy collections
+Color Plus,Fashion & Apparel,first_floor,store,Upto 50% Off,11.00 AM to 9.00PM,Trendy collections
+Mufti,Fashion & Apparel,first_floor,store,Upto 50% Off,11.00 AM to 9.00PM,Trendy collections
+Levi’s,Fashion & Apparel,first_floor,store,Upto 50% Off,11.00 AM to 9.00PM,Trendy collections
+Being Human,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Trendy collections
+BIBA,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Trendy collections
+W,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Trendy collections
+Aurelia,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Affordable clothing
+Jockey,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Affordable clothing
+Amante,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Affordable clothing
+Mark & Spencer,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Affordable clothing
+KIDS VILLE,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Affordable clothing
+FAME FOREVER,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Affordable clothing
+United Colors of Benetton,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Affordable clothing
+JUNIORS,Fashion & Apparel,second_floor,store,Seasonal Sale (30-50%),11.00 AM to 9.00PM,Affordable clothing
+Bata,Footwear & Accessories,second_floor,store,20% on school shoes,11.00 AM to 9.00PM,Formal & casual
+Metro Shoes,Footwear & Accessories,second_floor,store,20% on school shoes,11.00 AM to 9.00PM,Formal & casual
+Woodland,Footwear & Accessories,second_floor,store,20% on school shoes,11.00 AM to 9.00PM,Formal & casual
+Crocs,Footwear & Accessories,second_floor,store,20% on school shoes,11.00 AM to 9.00PM,Formal & casual
+Adidas,Footwear & Accessories,second_floor,store,20% on school shoes,11.00 AM to 9.00PM,Formal & casual
+Puma,Footwear & Accessories,second_floor,store,20% on school shoes,11.00 AM to 9.00PM,Formal & casual
+Skechers,Footwear & Accessories,second_floor,store,End of Season Sale 40%,11.00 AM to 9.00PM,Formal & casual
+Titan Eye Plus,Footwear & Accessories,second_floor,store,End of Season Sale 40%,11.00 AM to 9.00PM,Formal & casual
+Fastrack,Footwear & Accessories,second_floor,store,End of Season Sale 40%,11.00 AM to 9.00PM,Formal & casual
+Lenskart,Footwear & Accessories,thrid_floor,store,End of Season Sale 40%,11.00 AM to 9.00PM,Formal & casual
+Just Watches,Footwear & Accessories,thrid_floor,store,End of Season Sale 40%,11.00 AM to 9.00PM,Formal & casual
+VIP,Footwear & Accessories,thrid_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,Formal & casual
+Daniel Wellington,Footwear & Accessories,thrid_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,Formal & casual
+Wildcraft,Footwear & Accessories,thrid_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,Formal & casual
+Sunglass Hut,Footwear & Accessories,thrid_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,Formal & casual
+Mini So,Footwear & Accessories,thrid_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,Formal & casual
+Barbeque Nation,Food & Dining,thrid_floor,store,20% on combos,11.00 AM to 9.00PM,Unlimited grill
+Domino’s Pizza,Food & Dining,thrid_floor,store,20% on combos,11.00 AM to 9.00PM,Unlimited grill
+Burger King,Food & Dining,thrid_floor,store,20% on combos,11.00 AM to 9.00PM,Unlimited grill
+Baskin Robbins,Food & Dining,thrid_floor,store,20% on combos,11.00 AM to 9.00PM,Unlimited grill
+Annapoorna,Food & Dining,thrid_floor,store,20% on combos,11.00 AM to 9.00PM,Unlimited grill
+Marhaba,Food & Dining,thrid_floor,store,20% on combos,11.00 AM to 9.00PM,Unlimited grill
+Street Foods,Food & Dining,thrid_floor,store,20% on combos,11.00 AM to 9.00PM,Burgers & fries
+KFC,Food & Dining,thrid_floor,store,20% on combos,11.00 AM to 9.00PM,Burgers & fries
+McDonald's,Food & Dining,thrid_floor,store,20% on combos,11.00 AM to 9.00PM,Burgers & fries
+Pizza Hut,Food & Dining,thrid_floor,store,Combo Offers,11.00 AM to 9.00PM,Burgers & fries
+Chinese Wok,Food & Dining,thrid_floor,store,Combo Offers,11.00 AM to 9.00PM,Burgers & fries
+Cafe Coffee Day,Food & Dining,thrid_floor,store,Combo Offers,11.00 AM to 9.00PM,Burgers & fries
+Taco Bell,Food & Dining,fourth_floor,store,Combo Offers,11.00 AM to 9.00PM,Burgers & fries
+Keventers,Food & Dining,fourth_floor,store,Combo Offers,11.00 AM to 9.00PM,Burgers & fries
+Waffle Cart,Food & Dining,fourth_floor,store,Combo Offers,11.00 AM to 9.00PM,Burgers & fries
+Boomerang,Food & Dining,fourth_floor,store,Combo Offers,11.00 AM to 9.00PM,Burgers & fries
+Canadian Milk Shake,Food & Dining,fourth_floor,store,Combo Offers,11.00 AM to 9.00PM,Burgers & fries
+HomeTown,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Spar,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+World of Titan,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Kama Ayurveda,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Revlon,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+The Body Shop,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Nykaa,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Daniel Wellington,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Wildcraft,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Sunglass Hut,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Mini So,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Toni & Guy,Home & Lifestyle,fourth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Croma,Electronics & Lifestyle,fourth_floor,store,Exchange Offers,11.00 AM to 9.00PM,"Gadgets, appliances"
+Reliance Digital,Electronics & Lifestyle,fourth_floor,store,Exchange Offers,11.00 AM to 9.00PM,"Gadgets, appliances"
+HP World,Electronics & Lifestyle,fourth_floor,store,Exchange Offers,11.00 AM to 9.00PM,"Gadgets, appliances"
+Lenovo,Electronics & Lifestyle,fifth_floor,store,Exchange Offers,11.00 AM to 9.00PM,"Gadgets, appliances"
+Mi,Electronics & Lifestyle,fifth_floor,store,Exchange Offers,11.00 AM to 9.00PM,"Gadgets, appliances"
+OnePlus,Electronics & Lifestyle,fifth_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,"Phones, TVs, laptops"
+iPlanet,Electronics & Lifestyle,fifth_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,"Phones, TVs, laptops"
+Home Plus,Electronics & Lifestyle,fifth_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,"Phones, TVs, laptops"
+Chennai Mobiles,Electronics & Lifestyle,fifth_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,"Phones, TVs, laptops"
+Toni & Guy,Electronics & Lifestyle,fifth_floor,store,Festive Sale 20% Off,11.00 AM to 9.00PM,"Phones, TVs, laptops"
+INOX Cinemas,entertainment,fifth_floor,store,Weekend offers,11.00 AM to 9.00PM,9 screens
+Fun Unlimited,entertainment,fifth_floor,store,Weekend offers flat5%,11.00 AM to 9.00PM,special VR games available
+CRA Speedway (Rooftop Go-Karting),entertainment,fifth_floor,store,Weekend offers,11.00 AM to 9.00PM,11 screens
+Virtual Cricket Simulator,entertainment,fifth_floor,store,Student discounts,11.00 AM to 9.00PM,12 screens
+Hamleys,Toys & Hobbies,fifth_floor,store,Buy 1 Get 1 ,11.00 AM to 9.00PM,International toy store
+Smily,Toys & Hobbies,fifth_floor,store,Buy 1 Get 1 ,11.00 AM to 9.00PM,Kids' toys and games
+"Yes, some brands are running Buy 1 Get 1 offers on Hamleys and Smily Kiddo",Books & Stationery,fifth_floor,store,Up to 60% off,11.00 AM to 9.00PM,"Books, study materials"
+Miniso,Home Decor & Lifestyle,fifth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Kompanero,Home Decor & Lifestyle,fifth_floor,store,Up to 60% off,11.00 AM to 9.00PM,Furniture & decor
+Kama Ayurveda,Beauty & Wellness,fifth_floor,store,Festive sale 30%,11.00 AM to 9.00PM,Makeup & skincare
+New U,Beauty & Wellness,fifth_floor,store,Festive sale 30%,11.00 AM to 9.00PM,Makeup & skincare
+Samsonite,Luggage & Travel Accessories,fifth_floor,store,25% off trolleys,11.00 AM to 9.00PM,Travel bags & backpacks
+ATM,Facility,Near entrance,banking, null,24 hr,All Banks
+Restroom,Facility,Each Floor,Facility,null,24 hr,separate M/F
+parking,Facility,underground,Facility,null,11.00 AM to 9.00PM,separate for bike and car
+exit,Facility,underground,Facility,null,11.00 AM to 9.00PM,
+entry,Facility,first_floor and underground,,null,11.00 AM to 9.00PM,

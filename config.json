@@ -1,0 +1,9 @@
+{
+  "faq_csv": "C:\\chatbot\\dataset\\new faq_csv (3).csv",
+  "knowledge_csv": "C:\\chatbot\\dataset\\creating_dataset_csv_formate.csv",
+  "models_dir": "models",
+  "vectorizer_path": "models/tfidf_vectorizer.joblib",
+  "clf_path": "models/logreg_intent.joblib",
+  "label_map_path": "models/label_map.json",
+  "faq_cached_path": "models/faq_with_intents.csv"
+}
